@@ -2,7 +2,7 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-19/01/2021
+26/01/2021
 
 CPD activity
 Introduction to Web Development
@@ -10,7 +10,7 @@ Introduction to Web Development
 
 What have I learnt?
 
-I learnt the different type of development (front end, back end, full stack):  I have learnt the 3 languages html, Javascript and css:  I have learnt what a repository and a text editor are   
+Sadly I didn't learn anything today.  There was too much content and too many tasks to complete adequately within the lesson time.
 
 
 How did I use this in practice?
@@ -19,6 +19,5 @@ No practice at the moment
 
 
 What did I find hard?
-I find all the terminology which is new to me difficult.
-I also find it difficult to follow the lessons on MS Teams and do the practical at the same time
+I found it all very hard.
 
