@@ -1,3 +1,12 @@
 /* Your code goes below here */
-
-/* Your code goes above here */
+p em {
+    font-size: 28px;
+  }
+  
+  p strong {
+    font-size: 32px;
+  }
+ul {
+    font-weight: bolder;
+}
+  /* Your code goes above here */
