@@ -2,7 +2,7 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-26/01/2021
+28/01/2021
 
 CPD activity
 Introduction to Web Development
@@ -10,7 +10,7 @@ Introduction to Web Development
 
 What have I learnt?
 
-Sadly I didn't learn anything today.  There was too much content and too many tasks to complete adequately within the lesson time.
+I started to learn CSS
 
 
 How did I use this in practice?
@@ -19,5 +19,5 @@ No practice at the moment
 
 
 What did I find hard?
-I found it all very hard.
+I find it difficult keeping up with the new terminology and the pace of the learning
 
