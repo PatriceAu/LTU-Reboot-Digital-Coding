@@ -1,0 +1,26 @@
+.container {
+    border: 4px dashed orange;
+    width: 700px;
+    margin: auto;
+    padding: 30px background-colour pink;
+    margin: 0 auto;
+  }
+  
+  header, main, footer {
+    width: 90%;
+    height: 300px;
+    margin: 10px auto;
+    padding: 20 px
+  }
+  
+  header {
+    border-bottom: none;
+  }
+  
+  main {
+    border-top: none;
+    border-bottom: none;
+  }
+  
+  footer {border-top: none;
+  }
