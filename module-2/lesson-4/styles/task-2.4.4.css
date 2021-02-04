@@ -1,0 +1,11 @@
+.wrapper{
+    max-width: 700px;
+    margin:0 auto;
+    position:relative;
+}
+image{
+    max-width: 100%;
+}
+.wrapper figcaption{
+    display: inline-block;
+}
